@@ -1,9 +1,22 @@
-#ABOUT ME
+## ABOUT ME
 
 I am an ambitious problem-solving web developer who is always honing a diverse set of technological abilities. 
 I enjoy collaborating with employees from many departments to increase earnings and expand opportunities.
 I love seeking a work that will need me to participate in a significant number of online projects
 I am open to participation in projects and team work
+
+# TECHONOLOGIES I USE
+![Language](https://img.shields.io/badge/Language-React-yellow.svg)
+![Language](https://img.shields.io/badge/Language-Java-blue.svg)
+![Language](https://img.shields.io/badge/Language-Node-orange.svg)
+![Language](https://img.shields.io/badge/Language-JavaScript-purple.svg)
+![Language](https://img.shields.io/badge/Language-Sql-red.svg)
+![Language](https://img.shields.io/badge/Language-PHP-green.svg)
+![Language](https://img.shields.io/badge/Language-npm-pink.svg)
+
+
+
+
 
 
 
